@@ -7,4 +7,4 @@
 kotlinc .\HelloWorld.kt -include-runtime -d .\output\HelloWorld.jar
 ```
 
-## learning basics of Kotlin programming language as part of learning Android application development.
+### Learning basics of Kotlin programming language as part of learning Android application development.
